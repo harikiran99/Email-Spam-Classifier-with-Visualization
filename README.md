@@ -1,6 +1,7 @@
 # Email-Spam-Classifier-with-Visualization
 
-Summary
+# Summary
+
 *About dataset:The dataset 'emails.csv' contains information on 5172 email files, each represented by a row in the dataset. Each email is characterized by 3000 columns representing the most common words found in the emails, with counts of occurrences for each word. Additionally, the dataset includes a 'Prediction' column indicating whether each email is classified as spam (1) or not spam (0).
 
 *Data Preprocessing: The first observation reveals that the dataset may contain missing values, which can impact model training. Thus, preprocessing steps such as handling missing values is necessary before building the model. After the data preprocessing, the missing values are none in my dataset.
